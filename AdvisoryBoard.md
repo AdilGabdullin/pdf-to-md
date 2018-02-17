@@ -1,4 +1,4 @@
-###Advisory Board
+### Advisory Board
 The number one consideration for a test suite is accuracy and correctness.
 
 How do you know the tests are correct?
@@ -11,7 +11,8 @@ SilverCreek's tests are suggested, checked, and verified by our **SNMP Advisory 
 experts with both operational and network protocol experience, is our first resort when differences of opinion arise
 among the implementors and/or their customers. **There's no fingerpointing or "blame games" with SilverCreek.** IWL
 stands behind our SNMP tests and respects the Advisory Board's rulings and determinations.
-####Meet the Advisory Board:
+
+#### Meet the Advisory Board:
 
 >"IWL has made significant contributions to advancing the quality and usability of SNMP implementations world wide. IWL
 is at the forefront of SNMP
