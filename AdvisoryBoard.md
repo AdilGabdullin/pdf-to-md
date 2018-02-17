@@ -1,4 +1,4 @@
-### Advisory Board
+### <span style="color:rgb(107,194,140)">Advisory Board</span>
 The number one consideration for a test suite is accuracy and correctness.
 
 How do you know the tests are correct?
@@ -14,9 +14,9 @@ stands behind our SNMP tests and respects the Advisory Board's rulings and deter
 
 #### Meet the Advisory Board:
 
->"IWL has made significant contributions to advancing the quality and usability of SNMP implementations world wide. IWL
+>IWL has made significant contributions to advancing the quality and usability of SNMP implementations world wide. IWL
 is at the forefront of SNMP
-testing."
+testing.
 
 **- Dave Perkins, Author, Understanding MIBs**
 
@@ -27,15 +27,15 @@ testing."
 * IETF Editor: RFC 2579 Textual Conventions for SMIv2
 * IETF Editor: RFC 2578 SMIv2
 
->"IWL has introduced discipline and process to the complex world of network management testing. Their contributions to
+>IWL has introduced discipline and process to the complex world of network management testing. Their contributions to
 interoperability testing and the SilverCreek SNMP Test Suite have made them a valuable part of the quality control
-process of many device manufacturers."
+process of many device manufacturers.
 
 **- Dr. Jeff Case, Founder, SNMP Research**
 
->"It's been a privilege to serve on the IWL Advisory Board. IWL has a clear commitment to helping developers improve
+>It's been a privilege to serve on the IWL Advisory Board. IWL has a clear commitment to helping developers improve
 implementation quality by providing accurate and useful test results, and we're proud to help by clarifying SNMP and 
-associated MIB RFCs when questions or ambiguities arise."
+associated MIB RFCs when questions or ambiguities arise.
 
 **- Randy Presuhn, Industry Consultant**
 
@@ -45,8 +45,8 @@ associated MIB RFCs when questions or ambiguities arise."
 * IETF Co-Editor: RFC 3417 Transport Mappings for SNMP
 * IETF Co-Editor: RFC 3418 Management Information Base for SNMP
 
->"IWL has been instrumental in contributing to the SNMP Community through its test events and test suites. Their work
-has enabled many developers and implementors to improve the quality of their SNMP and RMON MIB implementations."
+>IWL has been instrumental in contributing to the SNMP Community through its test events and test suites. Their work
+has enabled many developers and implementors to improve the quality of their SNMP and RMON MIB implementations.
 
 **- Steve Waldbusser, Consultant, NextBeacon**
 
