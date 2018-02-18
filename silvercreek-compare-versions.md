@@ -333,8 +333,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Tests reference source of authority in RFCs
-        </td>
+        <td>Tests reference source of authority in RFCs        </td>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -345,7 +344,6 @@
         <td>✔</td>
         <td>✔</td>
     </tr>
-
     <tr>
         <td></td>
         <td></td>
@@ -370,7 +368,6 @@
         <td></td>
         <td></td>
     </tr>
-
     <tr>
         <td> Ability to customize tests (for ultimate flexibility)
         </td>
@@ -493,7 +490,6 @@
         <td>✔</td>
         <td>✔</td>
     </tr>
-
     <tr>
         <td></td>
         <td></td>
