@@ -1,17 +1,3 @@
-### SilverCreek®  Compare Versions
-
-<style>
-    table {
-        border-collapse: collapse;
-    }
-
-    td, th {
-        border: 1px solid black;
-        padding: 4px;
-        text-align: center;
-    }
-
-</style>
 <table>
     <tr>
         <th>SilverCreek® Model Numbers</th>
@@ -47,6 +33,30 @@
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>Linux</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
+        <td>✔</td>
+    </tr>
+    <tr>
+        <td>Includes all the platfoms listed above</td>
+        <td>✖</td>
+        <td>✖</td>
+        <td>✔</td>
+        <td>✖</td>
+        <td>✖</td>
+        <td>✔</td>
+        <td>✖</td>
+        <td>✖</td>
         <td>✔</td>
     </tr>
 </table>
