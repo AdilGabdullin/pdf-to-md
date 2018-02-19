@@ -126,7 +126,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>Semantic (functionality) tests</th>
+        <th>Semantic (functionality)<br> tests</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -138,7 +138,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>Vulnerability (robustness) tests</th>
+        <th>Vulnerability (robustness)<br> tests</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -148,6 +148,18 @@
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
+    </tr>
+    <tr>
+        <th>`</th>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
     </tr>
     <tr>
         <th><strong>Additional Tests:</strong></th>
@@ -186,7 +198,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>SNMPv3 USM-MIB (RFC3414)</th>
+        <th>SNMPv3 USM-MIB <br>(RFC3414)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -198,7 +210,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>SNMPv3 VACM-MIB (RFC3415)</th>
+        <th>SNMPv3 VACM-MIB<br> (RFC3415)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -234,7 +246,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>MIB-II Tests (RFC 1213/2011/2012/2013/2196 )
+        <th>MIB-II Tests (RFC <br>1213/2011/2012/2013/2196)
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -247,7 +259,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>IPv6 IP MIB Tests (RFC 4293)
+        <th>IPv6 IP MIB Tests <br>(RFC 4293)
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -260,7 +272,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>IPv6 ipForward MIB Tests (RFC 4292)
+        <th>IPv6 ipForward MIB Tests <br>(RFC 4292)
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -273,7 +285,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>IPv6 TCP-MIB Tests (RFC 4022)
+        <th>IPv6 TCP-MIB Tests<br> (RFC 4022)
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -286,7 +298,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>IPv6 UDP-MIB Tests (RFC 4113)
+        <th>IPv6 UDP-MIB Tests<br> (RFC 4113)
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -299,7 +311,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>Diffie-Helman Key Change Tests
+        <th>Diffie-Helman Key Change<br> Tests
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -312,7 +324,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>Load tests (by simulating multiple managers)
+        <th>Load tests (by simulating<br> multiple managers)
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -325,7 +337,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>Performance measurement tests
+        <th>Performance measurement<br> tests
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -338,7 +350,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>Tests reference source of authority in RFCs
+        <th>Tests reference source of <br>authority in RFCs
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -363,7 +375,7 @@
         <td></td>
     </tr>
     <tr>
-        <th><strong>Testing Options/Customizations:</strong></th>
+        <th><strong>Testing <br>Options/Customizations:</strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -375,7 +387,7 @@
         <td></td>
     </tr>
     <tr>
-        <th> Ability to customize tests (for ultimate flexibility)
+        <th> Ability to customize tests<br> (for ultimate flexibility)
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -388,7 +400,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>Source code, APIs, library definitions
+        <th>Source code, APIs, library<br> definitions
         </td>
         <td>✔</td>
         <td>✔</td>
@@ -401,7 +413,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>Customized MIB definitions (e.g. Redefine the range of an integer)</th>
+        <th>Customized MIB definitions<br> (e.g. Redefine the range<br> of an integer)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -437,7 +449,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>Insert a delay between test packets sent (for slow agents)</th>
+        <th>Insert a delay between test<br> packets sent <br>(for slow agents)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -461,7 +473,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Ignore writeable objects in SET tests (treat them as read-only)</th>
+        <th> Ignore writeable objects in<br> SET tests (treat them as<br> read-only)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -473,7 +485,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>Repetitvely execute selected tests</th>
+        <th>Repetitvely execute <br>selected tests</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -485,7 +497,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Pause testing and resume later</th>
+        <th> Pause testing and <br>resume later</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -521,7 +533,7 @@
         <td></td>
     </tr>
     <tr>
-        <th>POSIX Standard Result Codes</th>
+        <th>POSIX Standard Result<br> Codes</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -533,7 +545,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Text file (human readable and machine parsable via keywords)</th>
+        <th> Text file (human readable<br> and machine parsable via<br> keywords)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -545,7 +557,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> CSV output can be imported into a spreadsheet (e.g. Excel)</th>
+        <th> CSV output can be <br>imported into a spreadsheet<br> (e.g. Excel)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -557,7 +569,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>XML support (parsing by an XML parser)</th>
+        <th>XML support (parsing by an<br> XML parser)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -569,7 +581,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>Web page (display results in a web browser)</th>
+        <th>Web page (display results<br> in a web browser)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -593,7 +605,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Log of test session (machine parsable via 3 digit code)</th>
+        <th> Log of test session <br>(machine parsable via 3 <br>digit code)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -605,7 +617,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> ODBC support (store results and SQL query your database)</th>
+        <th> ODBC support (store <br>results and SQL query your <br>database)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -617,7 +629,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> "|" pipe delimited output can be imported into a spreadsheet (e.g. Excel)</th>
+        <th> "|" pipe delimited output can <br>be imported into a <br>spreadsheet (e.g. Excel)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -665,7 +677,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Share agent setup file with other users</th>
+        <th> Share agent setup file with <br>other users</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -689,7 +701,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Advanced Agent Setup - customize interactive parameters</th>
+        <th> Advanced Agent Setup - <br>customize interactive<br> parameters</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -701,7 +713,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Agent setup context specific MIB sets</th>
+        <th> Agent setup context specific <br>MIB sets</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -713,7 +725,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Agent setup specific MIB repertoire (to be deleted)</th>
+        <th> Agent setup specific MIB<br> repertoire (to be deleted)</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -749,7 +761,7 @@
         <td></td>
     </tr>
     <tr>
-        <th> SNMP Command Tool (simple)</th>
+        <th> SNMP Command Tool<br> (simple)</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -761,7 +773,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Send SNMP GET, NEXT, SET requests</th>
+        <th> Send SNMP GET, NEXT,<br> SET requests</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -773,7 +785,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> SNMP Command Wizard (advanced)</th>
+        <th> SNMP Command Wizard <br>(advanced)</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -785,7 +797,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Send SNMP GET, NEXT, SET, GET-BULK requests</th>
+        <th> Send SNMP GET, NEXT, <br>SET, GET-BULK requests</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -797,7 +809,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Send a series of requests with multiple objects</th>
+        <th> Send a series of requests <br>with multiple objects</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -809,7 +821,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Save and load previous command sets</th>
+        <th> Save and load previous<br> command sets</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -821,7 +833,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>SNMP Command Tcl Script Generator</th>
+        <th>SNMP Command Tcl <br>Script Generator</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -833,7 +845,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Build test scripts automatically (without programming knowledge)</th>
+        <th> Build test scripts<br> automatically (without<br> programming knowledge)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -845,7 +857,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Create one or more agents to test</th>
+        <th> Create one or more agents<br> to test</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -857,7 +869,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Test both scalar and columnar (table) objects</th>
+        <th> Test both scalar and<br> columnar (table) objects</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -869,7 +881,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Exercise row creation and row status transition for any table</th>
+        <th> Exercise row creation and<br> row status transition for<br> any table</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -881,7 +893,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Write verification on readwrite objects using allowable values</th>
+        <th> Write verification on <br>read-write objects using <br>allowable values</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -893,7 +905,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Resulting test script may be added to SilverCreek Test Suite</th>
+        <th> Resulting test script may be<br> added to SilverCreek Test<br> Suite</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -917,7 +929,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Show table relations among the five key tables (USM and VACM)</th>
+        <th> Show table relations among <br>the five key tables (USM <br>and VACM)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -929,7 +941,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Create a new user, assign user to group, assign MIB views to group</th>
+        <th> Create a new user, assign <br>user to group, assign MIB <br>views to group</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -977,7 +989,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Configuration Notification Tables</th>
+        <th> Configuration Notification <br>Tables</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -989,7 +1001,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th> Show Current Setting and Table Relations</th>
+        <th> Show Current Setting and<br> Table Relations</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1030,7 +1042,7 @@
     </tr>
     <tr>
         <th>
-            Create Notification Targets Parameters
+            Create Notification Targets <br>Parameters
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1058,7 +1070,7 @@
     </tr>
     <tr>
         <th>
-            Create Community String Mappings
+            Create Community String<br> Mappings
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1086,7 +1098,7 @@
     </tr>
     <tr>
         <th>
-            Poll selected objects via GET, GET-BULK, and Walking Branch
+            Poll selected objects via<br> GET, GET-BULK, and <br>Walking Branch
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1100,7 +1112,7 @@
     </tr>
     <tr>
         <th>
-            Modify interval and duration of polling for load testing
+            Modify interval and duration <br>of polling for load testing
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1114,7 +1126,7 @@
     </tr>
     <tr>
         <th>
-            Tab delimited output can be imported into a spreadsheet (e.g. Excel)
+            Tab delimited output can be <br>imported into a spreadsheet<br> (e.g. Excel)
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1128,7 +1140,7 @@
     </tr>
     <tr>
         <th>
-            Performance Measuring Tool
+            Performance Measuring <br>Tool
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1142,7 +1154,7 @@
     </tr>
     <tr>
         <th>
-            Measure performance of GET, NEXT, SET, GET-BULK
+            Measure performance of <br>GET, NEXT, SET,<br> GET-BULK
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1156,7 +1168,7 @@
     </tr>
     <tr>
         <th>
-            Measure performance of walking a MIB branch via NEXT, GET-BULK
+            Measure performance of <br>walking a MIB branch via<br> NEXT, GET-BULK
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1170,7 +1182,7 @@
     </tr>
     <tr>
         <th>
-            Measure performance of any scalar and columnar (table) objects
+            Measure performance of <br>any scalar and columnar <br>(table) objects
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1184,7 +1196,7 @@
     </tr>
     <tr>
         <th>
-            Send both synchronously and asynchronously
+            Send both synchronously <br>and asynchronously
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1198,7 +1210,7 @@
     </tr>
     <tr>
         <th>
-            Tab delimited output can be imported into a spreadsheet (e.g. Excel)
+            Tab delimited output can be<br> imported into a spreadsheet<br> (e.g. Excel)
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1250,7 +1262,7 @@
     </tr>
     <tr>
         <th>
-            Check variables bindings of received notifications
+            Check variables bindings of <br>received notifications
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1264,7 +1276,7 @@
     </tr>
     <tr>
         <th>
-            Support listening on multiple ports for traps and informs
+            Support listening on<br> multiple ports for traps<br> and informs
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1278,7 +1290,7 @@
     </tr>
     <tr>
         <th>
-            Synchronize with, and receive encrypted traps from SNMPv3 notification originator
+            Synchronize with, and <br>receive encrypted traps<br> from SNMPv3 notification<br> originator
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1292,7 +1304,7 @@
     </tr>
     <tr>
         <th>
-            Option to skip check time window for SNMPv3 notifications
+            Option to skip check time <br>window for SNMPv3 <br>notifications
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1306,7 +1318,7 @@
     </tr>
     <tr>
         <th>
-            Tab delimited output can be imported into a spreadsheet (e.g. Excel)
+            Tab delimited output can be <br>imported into a spreadsheet <br>(e.g. Excel)
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1358,7 +1370,7 @@
     </tr>
     <tr>
         <th>
-            Task-based Flash Training Videos
+            Task-based Flash<br> Training Videos
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1372,7 +1384,7 @@
     </tr>
     <tr>
         <th>
-            CookBook of Tcl Scripts (for Controlling and Automating SilverCreek)
+            CookBook of Tcl Scripts <br>(for Controlling <br>and Automating SilverCreek)
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1386,7 +1398,7 @@
     </tr>
     <tr>
         <th>
-            SilverCreek Developer's Guide (for Creating Your Own Tests)
+            SilverCreek Developer's<br> Guide (for Creating Your<br> Own Tests)
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1400,7 +1412,7 @@
     </tr>
     <tr>
         <th>
-            SilverCreek Test Handbook (details of each test)
+            SilverCreek Test Handbook <br>(details of each test)
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1452,7 +1464,7 @@
     </tr>
     <tr>
         <th>
-            Summary (summarized form of packets sent)
+            Summary (summarized<br> form of packets sent)
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1494,7 +1506,7 @@
     </tr>
     <tr>
         <th>
-            Packet Recorder and Decoder:
+            Packet Recorder<br> and Decoder:
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1522,7 +1534,7 @@
     </tr>
     <tr>
         <th>
-            Decode any SNMP HEX data to human readable form
+            Decode any SNMP HEX<br> data to<br> human readable form
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1547,7 +1559,7 @@
         <td></td>
     </tr>
     <tr>
-        <th><strong>Additional MIB Capabilities </strong></th>
+        <th><strong>Additional MIB <br>Capabilities </strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -1560,7 +1572,7 @@
     </tr>
     <tr>
         <th>
-            add and compile any MIB (private or standard)
+            add and compile any MIB <br>(private or standard)
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1574,7 +1586,7 @@
     </tr>
     <tr>
         <th>
-            automatically compile and load multiple MIBs (all at once)
+            automatically compile and<br> load multiple MIBs <br>(all at once)
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1588,7 +1600,7 @@
     </tr>
     <tr>
         <th>
-            add and compile an agentcapability MIB
+            add and compile an <br>agent-capability MIB
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1602,7 +1614,7 @@
     </tr>
     <tr>
         <th>
-            select one or more branches of MIBs for testing
+            select one or more <br>branches of MIBs for testing
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1616,7 +1628,7 @@
     </tr>
     <tr>
         <th>
-            automatically test your private MIBs
+            automatically test your<br> private MIBs
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1682,7 +1694,7 @@
     </tr>
     <tr>
         <th>
-            modify, create new rows in tables)
+            modify, create new rows in <br>tables)
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1749,7 +1761,7 @@
         <td></td>
     </tr>
     <tr>
-        <th><strong>Scripting Facilities for Control, Automation, and Integration: </strong></th>
+        <th><strong>Scripting Facilities <br>for Control, Automation, and <br>Integration: </strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -1774,7 +1786,7 @@
     </tr>
     <tr>
         <th>
-            Classic SNMP requests API (optimized for testing)
+            Classic SNMP requests API<br> (optimized for testing)
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1788,7 +1800,7 @@
     </tr>
     <tr>
         <th>
-            Light weight SNMP requests API
+            Light weight SNMP <br>requests API
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1802,7 +1814,7 @@
     </tr>
     <tr>
         <th>
-            Scotty/TNM API with support for IPv6 and SNMPv3
+            Scotty/TNM API with <br>support for IPv6 and <br>SNMPv3
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1816,7 +1828,7 @@
     </tr>
     <tr>
         <th>
-            Synchronous and Asynchronous API
+            Synchronous and <br>Asynchronous API
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1854,7 +1866,7 @@
     </tr>
     <tr>
         <th>
-            Control API for Running Tests (automating tests in CLI)
+            Control API for Running <br>Tests (automating tests<br> in CLI)
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1868,7 +1880,7 @@
     </tr>
     <tr>
         <th>
-            Remote interface (legacy support to telnet into SilverCreek to run tests)
+            Remote interface (legacy <br>support to telnet into <br>SilverCreek to run tests)
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1882,7 +1894,7 @@
     </tr>
     <tr>
         <th>
-            Expect ("screen scraper" support) (Linux ONLY)
+            Expect ("screen scraper"<br> support) (Linux ONLY)
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -1924,7 +1936,7 @@
     </tr>
     <tr>
         <th>
-            Build a script to drive GUI to automatically run test suites
+            Build a script to drive GUI to<br> automatically run test suites
         </th>
         <td>✖</td>
         <td>✖</td>
@@ -1990,7 +2002,7 @@
     </tr>
     <tr>
         <th>
-            Any Tcl extensions can be added to the SilverCreek environment
+            Any Tcl extensions can be<br> added to the SilverCreek<br> environment
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -2004,7 +2016,7 @@
     </tr>
     <tr>
         <th>
-            SilverCreek libraries can be added to any standard Tcl environment
+            SilverCreek libraries can be <br>added to any standard Tcl<br> environment
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -2018,7 +2030,7 @@
     </tr>
     <tr>
         <th>
-            SilverCreek may be integrated with other products (e.g. to control the Spirent packet generator)
+            SilverCreek may be <br>integrated with other <br>products (e.g. to control the<br> Spirent packet generator)
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -2032,7 +2044,7 @@
     </tr>
     <tr>
         <th>
-            Consistent Architecture and Operation of Tools
+            Consistent Architecture and <br>Operation of Tools
         </th>
         <td>✔</td>
         <td>✔</td>
@@ -2057,7 +2069,7 @@
         <td></td>
     </tr>
     <tr>
-        <th><strong>Encryption and Key Exchange Algorithms Supported: </strong></th>
+        <th><strong>Encryption and Key<br> Exchange Algorithms <br>Supported: </strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -2137,7 +2149,7 @@
         <td></td>
     </tr>
     <tr>
-        <th><strong>Authentication Supported: </strong></th>
+        <th><strong>Authentication<br> Supported: </strong></th>
         <td></td>
         <td></td>
         <td></td>
