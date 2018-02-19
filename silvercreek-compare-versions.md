@@ -1,5 +1,4 @@
 ### SilverCreek® Compare Versions
-<link rel="stylesheet" href="compare-versions.css">
 <table>
     <tr>
         <th>SilverCreek® Model Numbers</th>
@@ -14,7 +13,7 @@
         <th>3WGX</th>
     </tr>
     <tr>
-        <td><strong>Platform Support:</strong></td>
+        <th><strong>Platform Support:</strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -26,7 +25,7 @@
         <td></td>
     </tr>
     <tr>
-        <td>Windows</td>
+        <th>Windows</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -38,7 +37,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Linux</td>
+        <th>Linux</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -50,7 +49,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Includes all the platfoms listed above</td>
+        <th>Includes all the platfoms listed above</th>
         <td>✖</td>
         <td>✖</td>
         <td>✔</td>
