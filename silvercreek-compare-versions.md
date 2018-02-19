@@ -49,7 +49,8 @@
         <td>✔</td>
     </tr>
     <tr>
-        <th>Includes all the platfoms listed above</th>
+        <th>Includes all the platfoms<br>
+         listed above</th>
         <td>✖</td>
         <td>✖</td>
         <td>✔</td>
