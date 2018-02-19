@@ -1,16 +1,17 @@
 ### SilverCreek® Compare Versions
+<link rel="stylesheet" href="compare-versions.css">
 <table>
     <tr>
         <th>SilverCreek® Model Numbers</th>
-        <th>BSCM1</th>
-        <th>TBSCM1</th>
-        <th>BSCM1 WGX</th>
-        <th>BSCM2</th>
-        <th>TBSCM2</th>
-        <th>BSCM2 WGX</th>
-        <th>BSCM3</th>
-        <th>TBSCM3</th>
-        <th>BSCM3 WGX</th>
+        <th>1</th>
+        <th>T1</th>
+        <th>1WGX</th>
+        <th>2</th>
+        <th>T2</th>
+        <th>2WGX</th>
+        <th>3</th>
+        <th>T3</th>
+        <th>3WGX</th>
     </tr>
     <tr>
         <td><strong>Platform Support:</strong></td>
@@ -61,7 +62,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -85,7 +86,8 @@
         <td></td>
     </tr>
     <tr>
-        <td>Tests for SNMPv1, v2c, all private and standard MIBs</td>
+        <td>Tests for SNMPv1, v2c, all<br>
+        private and standard MIBs</td>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -97,7 +99,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Tests for SNMPv1, v2c, v3, all private and standard MIBs
+        <td>Tests for SNMPv1, v2c, v3,<br>
+        all private and standard<br>
+        MIBs
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -347,7 +351,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -493,7 +497,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -625,7 +629,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -721,7 +725,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -1221,7 +1225,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -1315,7 +1319,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -1409,7 +1413,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -1531,7 +1535,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -1625,7 +1629,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -1733,7 +1737,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -1825,7 +1829,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -1933,7 +1937,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -2041,7 +2045,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
@@ -2121,7 +2125,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td></td>
+        <td>`</td>
         <td></td>
         <td></td>
         <td></td>
