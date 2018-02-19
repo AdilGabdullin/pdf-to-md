@@ -50,7 +50,7 @@
     </tr>
     <tr>
         <th>Includes all the platfoms<br>
-         listed above</th>
+         listed above</td>
         <td>✖</td>
         <td>✖</td>
         <td>✔</td>
@@ -62,7 +62,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -74,7 +74,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>Test Coverage:</strong></td>
+        <th><strong>Test Coverage:</strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -86,7 +86,7 @@
         <td></td>
     </tr>
     <tr>
-        <td>Tests for SNMPv1, v2c, all<br>
+        <th>Tests for SNMPv1, v2c, all<br>
         private and standard MIBs</td>
         <td>✖</td>
         <td>✖</td>
@@ -99,7 +99,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Tests for SNMPv1, v2c, v3,<br>
+        <th>Tests for SNMPv1, v2c, v3,<br>
         all private and standard<br>
         MIBs
         </td>
@@ -114,7 +114,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Syntactic tests</td>
+        <th>Syntactic tests</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -126,7 +126,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Semantic (functionality) tests</td>
+        <th>Semantic (functionality) tests</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -138,7 +138,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Vulnerability (robustness) tests</td>
+        <th>Vulnerability (robustness) tests</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -150,7 +150,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td><strong>Additional Tests:</strong></td>
+        <th><strong>Additional Tests:</strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -162,7 +162,7 @@
         <td></td>
     </tr>
     <tr>
-        <td>DOCSIS</td>
+        <th>DOCSIS</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -174,7 +174,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>RMON I and RMON II</td>
+        <th>RMON I and RMON II</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -186,7 +186,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>SNMPv3 USM-MIB (RFC3414)</td>
+        <th>SNMPv3 USM-MIB (RFC3414)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -198,7 +198,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>SNMPv3 VACM-MIB (RFC3415)</td>
+        <th>SNMPv3 VACM-MIB (RFC3415)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -210,7 +210,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>SNMPv3 Apps (RFC-3413)</td>
+        <th>SNMPv3 Apps (RFC-3413)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -222,7 +222,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>SNMPv3 MPD-MIB (RFC3412)</td>
+        <th>SNMPv3 MPD-MIB (RFC3412)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -234,7 +234,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>MIB-II Tests (RFC 1213/2011/2012/2013/2196 )
+        <th>MIB-II Tests (RFC 1213/2011/2012/2013/2196 )
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -247,7 +247,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>IPv6 IP MIB Tests (RFC 4293)
+        <th>IPv6 IP MIB Tests (RFC 4293)
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -260,7 +260,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>IPv6 ipForward MIB Tests (RFC 4292)
+        <th>IPv6 ipForward MIB Tests (RFC 4292)
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -273,7 +273,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>IPv6 TCP-MIB Tests (RFC 4022)
+        <th>IPv6 TCP-MIB Tests (RFC 4022)
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -286,7 +286,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>IPv6 UDP-MIB Tests (RFC 4113)
+        <th>IPv6 UDP-MIB Tests (RFC 4113)
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -299,7 +299,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Diffie-Helman Key Change Tests
+        <th>Diffie-Helman Key Change Tests
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -312,7 +312,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Load tests (by simulating multiple managers)
+        <th>Load tests (by simulating multiple managers)
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -325,7 +325,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Performance measurement tests
+        <th>Performance measurement tests
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -338,7 +338,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Tests reference source of authority in RFCs
+        <th>Tests reference source of authority in RFCs
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -351,7 +351,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -363,7 +363,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>Testing Options/Customizations:</strong></td>
+        <th><strong>Testing Options/Customizations:</strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -375,7 +375,7 @@
         <td></td>
     </tr>
     <tr>
-        <td> Ability to customize tests (for ultimate flexibility)
+        <th> Ability to customize tests (for ultimate flexibility)
         </td>
         <td>✖</td>
         <td>✖</td>
@@ -388,7 +388,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Source code, APIs, library definitions
+        <th>Source code, APIs, library definitions
         </td>
         <td>✔</td>
         <td>✔</td>
@@ -401,7 +401,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Customized MIB definitions (e.g. Redefine the range of an integer)</td>
+        <th>Customized MIB definitions (e.g. Redefine the range of an integer)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -413,7 +413,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Check system reboot</td>
+        <th>Check system reboot</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -425,7 +425,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Ignore lexicographic errors</td>
+        <th> Ignore lexicographic errors</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -437,7 +437,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Insert a delay between test packets sent (for slow agents)</td>
+        <th>Insert a delay between test packets sent (for slow agents)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -449,7 +449,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Test according to MIN-ACCESS</td>
+        <th> Test according to MIN-ACCESS</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -461,7 +461,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Ignore writeable objects in SET tests (treat them as read-only)</td>
+        <th> Ignore writeable objects in SET tests (treat them as read-only)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -473,7 +473,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Repetitvely execute selected tests</td>
+        <th>Repetitvely execute selected tests</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -485,7 +485,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Pause testing and resume later</td>
+        <th> Pause testing and resume later</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -497,7 +497,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -509,7 +509,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>Test Output:</strong></td>
+        <th><strong>Test Output:</strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -521,7 +521,7 @@
         <td></td>
     </tr>
     <tr>
-        <td>POSIX Standard Result Codes</td>
+        <th>POSIX Standard Result Codes</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -533,7 +533,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Text file (human readable and machine parsable via keywords)</td>
+        <th> Text file (human readable and machine parsable via keywords)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -545,7 +545,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> CSV output can be imported into a spreadsheet (e.g. Excel)</td>
+        <th> CSV output can be imported into a spreadsheet (e.g. Excel)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -557,7 +557,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>XML support (parsing by an XML parser)</td>
+        <th>XML support (parsing by an XML parser)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -569,7 +569,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Web page (display results in a web browser)</td>
+        <th>Web page (display results in a web browser)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -581,7 +581,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>Journal</td>
+        <th>Journal</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -593,7 +593,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Log of test session (machine parsable via 3 digit code)</td>
+        <th> Log of test session (machine parsable via 3 digit code)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -605,7 +605,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> ODBC support (store results and SQL query your database)</td>
+        <th> ODBC support (store results and SQL query your database)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -617,7 +617,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> "|" pipe delimited output can be imported into a spreadsheet (e.g. Excel)</td>
+        <th> "|" pipe delimited output can be imported into a spreadsheet (e.g. Excel)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -629,7 +629,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -641,7 +641,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>Agent Setup:</strong></td>
+        <th><strong>Agent Setup:</strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -653,7 +653,7 @@
         <td></td>
     </tr>
     <tr>
-        <td> Save agent setup to file</td>
+        <th> Save agent setup to file</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -665,7 +665,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Share agent setup file with other users</td>
+        <th> Share agent setup file with other users</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -677,7 +677,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Agent capabilities</td>
+        <th> Agent capabilities</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -689,7 +689,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Advanced Agent Setup - customize interactive parameters</td>
+        <th> Advanced Agent Setup - customize interactive parameters</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -701,7 +701,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Agent setup context specific MIB sets</td>
+        <th> Agent setup context specific MIB sets</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -713,7 +713,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Agent setup specific MIB repertoire (to be deleted)</td>
+        <th> Agent setup specific MIB repertoire (to be deleted)</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -725,7 +725,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -737,7 +737,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>Toolsets:</strong></td>
+        <th><strong>Toolsets:</strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -749,7 +749,7 @@
         <td></td>
     </tr>
     <tr>
-        <td> SNMP Command Tool (simple)</td>
+        <th> SNMP Command Tool (simple)</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -761,7 +761,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Send SNMP GET, NEXT, SET requests</td>
+        <th> Send SNMP GET, NEXT, SET requests</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -773,7 +773,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> SNMP Command Wizard (advanced)</td>
+        <th> SNMP Command Wizard (advanced)</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -785,7 +785,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Send SNMP GET, NEXT, SET, GET-BULK requests</td>
+        <th> Send SNMP GET, NEXT, SET, GET-BULK requests</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -797,7 +797,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Send a series of requests with multiple objects</td>
+        <th> Send a series of requests with multiple objects</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -809,7 +809,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Save and load previous command sets</td>
+        <th> Save and load previous command sets</th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -821,7 +821,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>SNMP Command Tcl Script Generator</td>
+        <th>SNMP Command Tcl Script Generator</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -833,7 +833,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Build test scripts automatically (without programming knowledge)</td>
+        <th> Build test scripts automatically (without programming knowledge)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -845,7 +845,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Create one or more agents to test</td>
+        <th> Create one or more agents to test</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -857,7 +857,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Test both scalar and columnar (table) objects</td>
+        <th> Test both scalar and columnar (table) objects</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -869,7 +869,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Exercise row creation and row status transition for any table</td>
+        <th> Exercise row creation and row status transition for any table</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -881,7 +881,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Write verification on readwrite objects using allowable values</td>
+        <th> Write verification on readwrite objects using allowable values</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -893,7 +893,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Resulting test script may be added to SilverCreek Test Suite</td>
+        <th> Resulting test script may be added to SilverCreek Test Suite</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -905,7 +905,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> SNMPv3 USM Manager</td>
+        <th> SNMPv3 USM Manager</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -917,7 +917,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Show table relations among the five key tables (USM and VACM)</td>
+        <th> Show table relations among the five key tables (USM and VACM)</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -929,7 +929,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Create a new user, assign user to group, assign MIB views to group</td>
+        <th> Create a new user, assign user to group, assign MIB views to group</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -941,7 +941,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Key Change</td>
+        <th> Key Change</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -953,7 +953,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Manage MIB View Names</td>
+        <th> Manage MIB View Names</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -965,7 +965,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Test and Delete User</td>
+        <th> Test and Delete User</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -977,7 +977,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Configuration Notification Tables</td>
+        <th> Configuration Notification Tables</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -989,7 +989,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td> Show Current Setting and Table Relations</td>
+        <th> Show Current Setting and Table Relations</th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1001,9 +1001,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Create Notification Names
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1015,9 +1015,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Create Notification Targets
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1029,9 +1029,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Create Notification Targets Parameters
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1043,9 +1043,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Create Notification Files
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1057,9 +1057,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Create Community String Mappings
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1071,9 +1071,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Polling Tool
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1085,9 +1085,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Poll selected objects via GET, GET-BULK, and Walking Branch
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1099,9 +1099,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Modify interval and duration of polling for load testing
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1113,9 +1113,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Tab delimited output can be imported into a spreadsheet (e.g. Excel)
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1127,9 +1127,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Performance Measuring Tool
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1141,9 +1141,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Measure performance of GET, NEXT, SET, GET-BULK
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1155,9 +1155,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Measure performance of walking a MIB branch via NEXT, GET-BULK
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1169,9 +1169,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Measure performance of any scalar and columnar (table) objects
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1183,9 +1183,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Send both synchronously and asynchronously
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1197,9 +1197,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Tab delimited output can be imported into a spreadsheet (e.g. Excel)
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1211,9 +1211,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Memory Leak Tool
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1225,7 +1225,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -1237,7 +1237,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>Notification Monitor:</strong></td>
+        <th><strong>Notification Monitor:</strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -1249,9 +1249,9 @@
         <td></td>
     </tr>
     <tr>
-        <td>
+        <th>
             Check variables bindings of received notifications
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1263,9 +1263,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Support listening on multiple ports for traps and informs
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1277,9 +1277,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Synchronize with, and receive encrypted traps from SNMPv3 notification originator
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1291,9 +1291,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Option to skip check time window for SNMPv3 notifications
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1305,9 +1305,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Tab delimited output can be imported into a spreadsheet (e.g. Excel)
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1319,7 +1319,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -1331,7 +1331,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>Documentation: </strong></td>
+        <th><strong>Documentation: </strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -1343,9 +1343,9 @@
         <td></td>
     </tr>
     <tr>
-        <td>
+        <th>
             Online Help (user manual)
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1357,9 +1357,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Task-based Flash Training Videos
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1371,9 +1371,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             CookBook of Tcl Scripts (for Controlling and Automating SilverCreek)
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1385,9 +1385,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             SilverCreek Developer's Guide (for Creating Your Own Tests)
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1399,9 +1399,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             SilverCreek Test Handbook (details of each test)
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1413,7 +1413,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -1425,7 +1425,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>Diagnostic Tools: </strong></td>
+        <th><strong>Diagnostic Tools: </strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -1437,9 +1437,9 @@
         <td></td>
     </tr>
     <tr>
-        <td>
+        <th>
             SilverCreek Console
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1451,9 +1451,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Summary (summarized form of packets sent)
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1465,9 +1465,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Watch (pseudo ASN.1)
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1479,9 +1479,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Debug (octet dump)
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1493,9 +1493,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Packet Recorder and Decoder:
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1507,9 +1507,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Capture packets
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1521,9 +1521,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Decode any SNMP HEX data to human readable form
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1535,7 +1535,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -1547,7 +1547,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>Additional MIB Capabilities </strong></td>
+        <th><strong>Additional MIB Capabilities </strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -1559,9 +1559,9 @@
         <td></td>
     </tr>
     <tr>
-        <td>
+        <th>
             add and compile any MIB (private or standard)
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1573,9 +1573,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             automatically compile and load multiple MIBs (all at once)
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1587,9 +1587,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             add and compile an agentcapability MIB
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1601,9 +1601,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             select one or more branches of MIBs for testing
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1615,9 +1615,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             automatically test your private MIBs
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1629,7 +1629,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -1641,7 +1641,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>MIB Tools: </strong></td>
+        <th><strong>MIB Tools: </strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -1653,9 +1653,9 @@
         <td></td>
     </tr>
     <tr>
-        <td>
+        <th>
             MIB Browser
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1667,9 +1667,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             MIB Walker
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1681,9 +1681,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             modify, create new rows in tables)
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1695,9 +1695,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             MIB Dictionary
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1709,9 +1709,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             MIB Compiler
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1723,9 +1723,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             MIB Compare
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1737,7 +1737,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -1749,7 +1749,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>Scripting Facilities for Control, Automation, and Integration: </strong></td>
+        <th><strong>Scripting Facilities for Control, Automation, and Integration: </strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -1761,7 +1761,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>For Writing Tests </strong></td>
+        <th><strong>For Writing Tests </strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -1773,9 +1773,9 @@
         <td></td>
     </tr>
     <tr>
-        <td>
+        <th>
             Classic SNMP requests API (optimized for testing)
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1787,9 +1787,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Light weight SNMP requests API
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1801,9 +1801,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Scotty/TNM API with support for IPv6 and SNMPv3
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1815,9 +1815,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Synchronous and Asynchronous API
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1829,7 +1829,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -1841,7 +1841,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>For Automating Tests </strong></td>
+        <th><strong>For Automating Tests </strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -1853,9 +1853,9 @@
         <td></td>
     </tr>
     <tr>
-        <td>
+        <th>
             Control API for Running Tests (automating tests in CLI)
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1867,9 +1867,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Remote interface (legacy support to telnet into SilverCreek to run tests)
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1881,9 +1881,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Expect ("screen scraper" support) (Linux ONLY)
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1895,9 +1895,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Tcl shell integration Scotty/TNM API with
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1909,9 +1909,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Automation Wizard
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1923,9 +1923,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Build a script to drive GUI to automatically run test suites
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -1937,7 +1937,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -1949,7 +1949,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>Miscellaneous </strong></td>
+        <th><strong>Miscellaneous </strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -1961,9 +1961,9 @@
         <td></td>
     </tr>
     <tr>
-        <td>
+        <th>
             Full support of Tcl language
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1975,9 +1975,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Sample Scripts Available
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -1989,9 +1989,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Any Tcl extensions can be added to the SilverCreek environment
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -2003,9 +2003,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             SilverCreek libraries can be added to any standard Tcl environment
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -2017,9 +2017,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             SilverCreek may be integrated with other products (e.g. to control the Spirent packet generator)
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -2031,9 +2031,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Consistent Architecture and Operation of Tools
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -2045,7 +2045,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -2057,7 +2057,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>Encryption and Key Exchange Algorithms Supported: </strong></td>
+        <th><strong>Encryption and Key Exchange Algorithms Supported: </strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -2069,9 +2069,9 @@
         <td></td>
     </tr>
     <tr>
-        <td>
+        <th>
             Diffie Helman
-        </td>
+        </th>
         <td>✖</td>
         <td>✖</td>
         <td>✖</td>
@@ -2083,9 +2083,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             DES
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -2097,9 +2097,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             AES 128, 192, 256
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -2111,9 +2111,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             Triple DES
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -2125,7 +2125,7 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>`</td>
+        <th>`</th>
         <td></td>
         <td></td>
         <td></td>
@@ -2137,7 +2137,7 @@
         <td></td>
     </tr>
     <tr>
-        <td><strong>Authentication Supported: </strong></td>
+        <th><strong>Authentication Supported: </strong></th>
         <td></td>
         <td></td>
         <td></td>
@@ -2149,9 +2149,9 @@
         <td></td>
     </tr>
     <tr>
-        <td>
+        <th>
             MD5
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
@@ -2163,9 +2163,9 @@
         <td>✔</td>
     </tr>
     <tr>
-        <td>
+        <th>
             SHA
-        </td>
+        </th>
         <td>✔</td>
         <td>✔</td>
         <td>✔</td>
